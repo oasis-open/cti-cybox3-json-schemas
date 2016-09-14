@@ -43,9 +43,6 @@
 
 <li><a href="mailto:trey@kingfisherops.com">Trey Darley</a>; GitHub ID: <a href="https://github.com/treyka/">https://github.com/treyka/</a>; WWW: <a href="http://kingfisherops.com/">Kingfisher Operations</a></li>
 
-
-<!-- <li><a href="mailto:luc.boutier@fastconnect.fr">Luc Boutier</a>; GitHub ID: <a href="https://github.com/lucboutier/">https://github.com/lucboutier/</a>; WWW: <a href="http://www.fastconnect.fr/">FastConnect</a></li> -- >
-
 </ul>
 
 </div>
