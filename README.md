@@ -41,7 +41,7 @@
 
 <li><a href="mailto:ikirillov@mitre.org">Ivan Kirillov</a>; GitHub ID: <a href="https://github.com/ikiril01">https://github.com/ikiril01</a>;  WWW: <a href="https://www.mitre.org">MITRE</a></li>
 
-<li><a href="mailto:trey@kingfisherops.com">Trey Darley</a>; GitHub ID: <a href="https://github.com/treyka/">https://github.com/treyka/</a>; WWW: <a href="http://kingfisherops.com/">Kingfisher Operations</a></li>
+<li><a href="mailto:trey@kingfisherops.com">Trey Darley</a>; GitHub ID: <a href="https://github.com/treyka/">https://github.com/treyka/</a>; WWW: <a href="https://www.newcontext.com/">New Context</a></li>
 
 </ul>
 
