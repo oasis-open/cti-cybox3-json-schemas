@@ -2,6 +2,10 @@
 <h1>Contributing</h1>
 
 <div>
+<p><b>N.B. Archived Repository</b>.  At the request of the OASIS Cyber Threat Intelligence (CTI) TC (TC Chair, GitHub Repository Maintainers, GitHub Repository Technical Leads), the <a href="https://github.com/oasis-open/cti-cybox3-json-schemas">cti-cybox3-json-schemas</a> public GitHub repository was scheduled for archiving on Tuesday, March 27, 2018. Per OASIS TC Open Repository rules for <a href="https://www.oasis-open.org/policies-guidelines/open-repositories#repositoryLifecycle">Repository Lifecycle</a> and <a href="https://www.oasis-open.org/policies-guidelines/open-repositories#archivalPermanence">Archival Permanence</a>,  the repository content is now preserved as a read-only resource, with the expectation that the repository will not be re-opened.</p><hr>
+</div>
+
+<div>
 <h2><a id="openParticipation">Public Participation Invited</a></h2>
 
 <p>This <a href="https://www.oasis-open.org/resources/open-repositories">OASIS Open Repository</a> ( <b><a href="https://github.com/oasis-open/cti-cybox3-json-schemas">github.com/oasis-open/cti-cybox3-json-schemas</a></b> ) is a community public repository that supports participation by anyone, whether affiliated with OASIS or not.  Substantive contributions (repository "code") and related feedback is invited from all parties, following the common conventions for participation in GitHub public repository projects.  Participation is expected to be consistent with the <a href="https://www.oasis-open.org/policies-guidelines/open-repositories">OASIS Open Repository Guidelines and Procedures</a>, the <a href="https://www.oasis-open.org/sites/www.oasis-open.org/files/BSD-3-Clause.txt">LICENSE</a> designated for this particular repository (BSD-3-Clause License), and the requirement for an <a href="https://www.oasis-open.org/resources/open-repositories/cla/individual-cla">Individual Contributor License Agreement</a>.  Please see the repository <a href="https://github.com/oasis-open/cti-cybox3-json-schemas/blob/master/README.md">README</a> document for other details.</p>

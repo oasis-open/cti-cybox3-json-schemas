@@ -4,6 +4,10 @@
 <div>
 <h2><a id="readme-general">OASIS Open Repository: cti-cybox3-json-schemas</a></h2>
 
+<div>
+<p><b>N.B. Archived Repository</b>.  At the request of the OASIS Cyber Threat Intelligence (CTI) TC (TC Chair, GitHub Repository Maintainers, GitHub Repository Technical Leads), the <a href="https://github.com/oasis-open/cti-cybox3-json-schemas">cti-cybox3-json-schemas</a> public GitHub repository was scheduled for archiving on Tuesday, March 27, 2018. Per OASIS TC Open Repository rules for <a href="https://www.oasis-open.org/policies-guidelines/open-repositories#repositoryLifecycle">Repository Lifecycle</a> and <a href="https://www.oasis-open.org/policies-guidelines/open-repositories#archivalPermanence">Archival Permanence</a>,  the repository content is now preserved as a read-only resource, with the expectation that the repository will not be re-opened.</p><hr>
+</div>
+
 <p>This GitHub public repository ( <b><a href="https://github.com/oasis-open/cti-cybox3-json-schemas">https://github.com/oasis-open/cti-cybox3-json-schemas</a></b> ) was created at the request of the <a href="https://www.oasis-open.org/committees/cti/">OASIS Cyber Threat Intelligence (CTI) TC</a> as an <a href="https://www.oasis-open.org/resources/open-repositories/">OASIS Open Repository</a> to support development of open source resources related to Technical Committee work.</p>
 
 <p>While this Open Repository remains associated with the sponsor TC, its development priorities, leadership, intellectual property terms, participation rules, and other matters of governance are <a href="https://github.com/oasis-open/cti-cybox3-json-schemas/blob/master/CONTRIBUTING.md#governance-distinct-from-oasis-tc-process">separate and distinct</a> from the OASIS TC Process and related policies.</p>
